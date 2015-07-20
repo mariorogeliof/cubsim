@@ -1,0 +1,8 @@
+<img src='http://cubsim.googlecode.com/files/last.png' alt='Smiley face' align='left' />
+The CubSim model is a generic, reusable agent-based model developed to examine the factors affecting customer retention in the UK mobile market. The model development process involves creating artificial agents mimicking attributes and behaviours of their real-world counterparts. In outline, agents represent customers and agent relationships represent processes of agent interaction.
+
+The decision making process of the agents are based essentially on evaluating satisfaction resulting from interaction with their service provider. The final decisions of the agents on switching their network provider are based on the amalgamation of interactions among all channels, including social network, interaction with the service provider and interaction with the competing operator. The agent’s decision is influenced by two external stimuli and one internal stimulus. The external stimuli are offers from competing networks and WOM from social networks while the internal stimulus is the satisfaction level with the service provider.
+
+During the simulation, model’s users are able to change customer retention strategies of the competing operators concerning the Customer services and Marketing aggressive level. The users can monitor the effect of different retention strategies on churn rate and market share by observing the simulation output charts.A working version of the model can be viewed at the link below. The java virtual machine (JVM) is needed to run the model.
+
+[CubSim Model](http://www.cubsim.com/model/)
